@@ -1,0 +1,5 @@
+@import "transition.css";
+
+html{
+  scrollbar-gutter: auto;
+}
